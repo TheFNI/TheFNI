@@ -1,9 +1,11 @@
 <h1 align="center">Hello 👋, I'm TheFNI</h1>
 <h3 align="center">I'm just a student from Indonesia</h3>
 
-- 🌱 I’m currently learning **Python, Fullstack Dev, C#, Math, Algorithm, Hacking**
+- 🌱 I’m currently learning **Python, C#, Math, Algorithm, Hacking**
 
-- ⚡ I just a student in **SMA BUBS Tarakan**
+- 📘 I'm a student in **STMIK PPKIA Tarakanita Rahmawati**
+
+- ⚙️ I majored in **Computer Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
