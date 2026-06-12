@@ -5,7 +5,7 @@
 
 - 📘 I'm a student in **STMIK PPKIA Tarakanita Rahmawati**
 
-- ⚙️ I majored in **Computer Science**
+- ⚙️ I majored in **Informatics Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
